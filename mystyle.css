@@ -16,10 +16,9 @@
 
   .topnav input {
   
-    width: 960px;
+    width: 800px;
     height: 6px;
     padding: 12px;
   }
 
-/* .LeftList {padding-left: 0px;
-       display: inline;} */
+  .floatL {float: left;}
